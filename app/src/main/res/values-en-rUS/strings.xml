@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="defaultDate">Birthdate</string>
+    <string name="defaultName">Name(s)</string>
+    <string name="defaultLastName">Surnames</string>
+    <string name="tauro">Taurus</string>
+    <string name="geminis">Gemini</string>
+    <string name="escorpion">Scorpio</string>
+    <string name="sagitario">Sagittarius</string>
+    <string name="capricornio">Capricorn</string>
+    <string name="acuario">Aquarius</string>
+    <string name="piscis">Pisces</string>
+    <string name="fillAllError">Fill all the fields</string>
+    <string name="blankSpacesError">Only blank space\'s are not allowed</string>
+    <string name="onlyChar">Only chars</string>
+    <string name="minChar">you have to writte at least 2 chars</string>
+    <string name="zodiac">Zodiac sign</string>
+</resources>

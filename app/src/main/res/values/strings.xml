@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Proyecto 1</string>
+    <string name="defaultDate">Fecha de nacimiento</string>
+    <string name="defaultName">Nombre(s)</string>
+    <string name="defaultLastName">Apellido(s)</string>
+    <string name="acuario">Acuario</string>
+    <string name="piscis">Piscis</string>
+    <string name="aries" translatable="false">Aries</string>
+    <string name="tauro">Tauro</string>
+    <string name="geminis">Geminis</string>
+    <string name="cancer" translatable="false">Cancer</string>
+    <string name="leo" translatable="false">Leo</string>
+    <string name="virgo" translatable="false">Virgo</string>
+    <string name="libra" translatable="false">Libra</string>
+    <string name="escorpion">Escorpión</string>
+    <string name="sagitario">Sagitario</string>
+    <string name="capricornio">Capricornio</string>
+    <string name="fillAllError">Completa todos los campos!</string>
+    <string name="blankSpacesError">No puede haber solo espacios en blanco!</string>
+    <string name="onlyChar">Solo puedes ingresar letras</string>
+    <string name="minChar">Debes ingresar mínimo 2 caracteres</string>
+    <string name="surnamesError">Debes ingresar tus dos apellidos</string>
+    <string name="zodiac">Signo zodiacal</string>
+
+
+</resources>
